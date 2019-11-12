@@ -1,0 +1,2 @@
+# Watson-IBM-customer
+The most successful modern companies leverage customer behavior data and analytics to drive customer acquisition, retention and, growth. In a digital world customer-centricity and personalization separate the winners from the losers. Therefore there is no coincidence that big companies try to go beyond traditional analysis to deliver personalized customer experiences. Here, we explore the public data provided by IBM to derive meaningful conclusions from customer behavior.  
